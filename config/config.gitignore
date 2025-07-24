@@ -1,0 +1,22 @@
+PORT = 4000
+
+MONGO_URI=mongodb+srv://Ghanshyam:4849779gh@cluster0.3q4foqs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+FRONTEND_URL=http://localhost:5173
+
+DASHBOARD_URL=http://localhost:5174
+
+JWT_SECRET_KEY=7d89b4e3b3ef82033242f1323c2e275a44d604e5
+
+JWT_EXPIRES=7d
+
+COOKIE_EXPIRE=7
+
+CLOUDINARY_CLOUD_NAME=dwcqiq4oh
+
+CLOUDINARY_API_SECRET=U0eyb5pbf9NhUkG3-ohEWb3Wy08
+
+CLOUDINARY_API_KEY=988455595339618
+
+
+
